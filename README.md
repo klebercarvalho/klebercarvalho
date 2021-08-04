@@ -16,7 +16,7 @@ My name is Kleber Carvalho as Solutions Architect at IBM - Container, Kubernetes
 <a href="http://www.twitter.com/ibmcloud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ibmcloud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/showcase/ibm-cloud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IBM Cloud" height="30" width="40" /></a>
-<a href=" http://www.ibm.com/cloud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="IBM Cloud" height="30" width="40" /></a>
+<a href="http://www.ibm.com/cloud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="IBM Cloud" height="30" width="40" /></a>
 <a href="https://www.ibm.com/cloud/blog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="IBM Cloud Blog" height="30" width="40" /></a>
 </p>
 
